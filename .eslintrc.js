@@ -19,6 +19,5 @@ module.exports = {
     'func-names': 'off',
     'space-before-function-paren': 'off',
     'linebreak-style': ['error', 'windows'],
-    // 'no-param-reassign': 0,
   },
 };
