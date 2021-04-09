@@ -12,8 +12,7 @@
  *
  */
 function findIndex(array, value) {
-  const start = array[0];
-  return value - start;
+  return value - array[0];
 }
 
 module.exports = findIndex;
